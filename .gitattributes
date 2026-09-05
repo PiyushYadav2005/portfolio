@@ -1,0 +1,11 @@
+﻿# Normalize line endings for all text files
+* text=auto eol=lf
+
+# Force binary files to not be modified
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.svg text
