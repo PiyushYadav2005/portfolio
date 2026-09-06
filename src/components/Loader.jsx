@@ -104,7 +104,7 @@ export default function Loader() {
           color: 'var(--color-text-dim)',
           marginBottom: '2rem',
         }}>
-          Preparing Warp Drive
+          INITIALIZING PORTFOLIO...
         </p>
 
         {/* Progress */}
